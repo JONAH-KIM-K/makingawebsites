@@ -4,6 +4,16 @@ body {
   text-align: center;
 }
 
+header {
+  border-bottom: 2px solid #ccc; /* 아래쪽에만 구분선 추가 */
+  padding-bottom: 10px; /* 구분선과 내용 사이에 여백 추가 */
+}
+
+footer {
+  border-top: 1px solid #999; /* 위쪽에만 구분선 추가 */
+  padding-top: 10px;
+}
+
 h1 {
   color: navy;
 }
@@ -20,6 +30,7 @@ h1 {
   /* border: 2px solid #333; /* 두께, 스타일, 색상 설정 */ */
   
 }
+
 
 
 
