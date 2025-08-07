@@ -9,7 +9,7 @@ h1 {
 }
 
 .gallery-image {
-  width 50%;
+  width 200px;
   height : auto;
 
   border-radius:20px;
@@ -17,6 +17,7 @@ h1 {
   /* border:2px solid #333; */
   
 }
+
 
 
 
