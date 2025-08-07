@@ -1,4 +1,6 @@
-# makingawebsites<!DOCTYPE html>
+# makingawebsites
+
+<!DOCTYPE html>
 <html>
 <head>
 <title>My First Website</title>
