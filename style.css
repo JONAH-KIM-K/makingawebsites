@@ -9,12 +9,12 @@ h1 {
 }
 
 .gallery image {
-  width 300px;
+  width 200px;
   height : auto;
 
   border-radius:20px;
 
   /* border:2px solid #333; */
-
   
 }
+
