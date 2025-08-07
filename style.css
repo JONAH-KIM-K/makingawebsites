@@ -8,3 +8,13 @@ h1 {
   color: navy;
 }
 
+.gallery image {
+  width 300px;
+  height : auto;
+
+  border-radius:20px;
+
+  /* border:2px solid #333; */
+
+  
+}
