@@ -14,6 +14,10 @@ footer {
   padding-top: 10px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 h1 {
   color: navy;
 }
@@ -30,6 +34,7 @@ h1 {
   /* border: 2px solid #333; /* 두께, 스타일, 색상 설정 */ */
   
 }
+
 
 
 
